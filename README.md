@@ -30,4 +30,4 @@
 
 ## Screenshot(#screenshot)
 
-* ![Alt text](/Develop/assets/images/full-horiseon-screenshot.png)
+![Alt text](/Develop/assets/images/full-horiseon-screenshot.png)
