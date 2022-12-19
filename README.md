@@ -8,6 +8,26 @@
 
 1. [Subjects](#subjects)
 2. [Technologies](#technologies)
-3. [Installation](#installation)
+3. [Screenshot](#screenshot)
 
-## Subjects
+## Subjects(#subjects)
+
+### This website focuses on:
+
+* Search Engine Optimization
+* Online Reputation Management
+* Social Media Marketing
+* Lead Generation
+* Brand Awareness
+* Cost Management
+
+## Technologies(#technologies)
+
+### Built with:
+
+* HTML
+* CSS
+
+## Screenshot(#screenshot)
+
+* ./Develop/assets/images/full-horiseon-screenshot.png
