@@ -6,11 +6,11 @@
 
 ## Table of Contents
 
-1. [Subjects](#subjects)
-2. [Technologies](#technologies)
-3. [Screenshot](#screenshot)
+1. [Subjects]
+2. [Technologies]
+3. [Screenshot]
 
-## Subjects(#subjects)
+## Subjects
 
 ### This website focuses on:
 
@@ -21,7 +21,7 @@
 * Brand Awareness
 * Cost Management
 
-## Technologies(#technologies)
+## Technologies
 
 ### Built with:
 
@@ -30,4 +30,4 @@
 
 ## Screenshot(#screenshot)
 
-* ./Develop/assets/images/full-horiseon-screenshot.png
+* /Develop/assets/images/full-horiseon-screenshot.png
