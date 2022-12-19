@@ -6,9 +6,9 @@
 
 ## Table of Contents
 
-1. [Subjects]
-2. [Technologies]
-3. [Screenshot]
+1. Subjects
+2. Technologies
+3. Screenshot
 
 ## Subjects
 
