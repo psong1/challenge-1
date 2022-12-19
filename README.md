@@ -28,6 +28,6 @@
 * HTML
 * CSS
 
-## Screenshot(#screenshot)
+## Screenshot
 
 ![Alt text](/Develop/assets/images/full-horiseon-screenshot.png)
