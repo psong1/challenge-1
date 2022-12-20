@@ -30,4 +30,4 @@
 
 ## Screenshot
 
-![Alt text](/01-Class-Content/01-HTML-Git-CSS/horiseon/Develop/assets/images/full-horiseon-screenshot.png)
+![Alt text](./Develop/assets/images/full-horiseon-screenshot.png)
