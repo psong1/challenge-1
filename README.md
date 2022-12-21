@@ -30,4 +30,4 @@
 
 ## Screenshot
 
-![Alt text](./Develop/assets/images/full-horiseon-screenshot.png)
+![Full screenshot of deployed webpage](./Develop/assets/images/full-horiseon-screenshot.png)
