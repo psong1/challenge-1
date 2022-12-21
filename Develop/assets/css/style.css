@@ -15,6 +15,7 @@ header {
     color: #ffffff;
 }
 
+/* Removed unnecessary class elements under the header tag */
 h1 {
     display: inline-block;
     font-size: 48px;
@@ -74,6 +75,7 @@ p {
     margin-left: 20px;
 }
 
+/* consolidated classes to avoid redundancy */
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -85,7 +87,6 @@ p {
     color: #ffffff;
 }
 
-/* consolidated classes to avoid redundancy */
 .search-engine-optimization img,
 .online-reputation-management img,
 .social-media-marketing img {
