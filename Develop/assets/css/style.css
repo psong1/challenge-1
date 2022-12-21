@@ -111,6 +111,7 @@ p {
     background-color: #2589bd;
 }
 
+/* consolidated classes to avoid redundancy */
 .benefit-brand,
 .benefit-cost,
 .benefit-lead {
@@ -118,7 +119,6 @@ p {
     color: #ffffff;
 }
 
-/* consolidated classes to avoid redundancy */
 .benefit-brand h3,
 .benefit-cost h3,
 .benefit-lead h3 {
