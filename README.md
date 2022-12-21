@@ -8,7 +8,7 @@
 
 1. Subjects
 2. Technologies
-3. Screenshot
+3. Screenshot & Link
 
 ## Subjects
 
@@ -28,6 +28,8 @@
 * HTML
 * CSS
 
-## Screenshot
+## Screenshot & Link
 
 ![Full screenshot of deployed webpage](./Develop/assets/images/full-horiseon-screenshot.png)
+
+* ![link] https://psong1.github.io/horiseon/
