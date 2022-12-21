@@ -32,4 +32,4 @@
 
 ![Full screenshot of deployed webpage](./Develop/assets/images/full-horiseon-screenshot.png)
 
-* ![link] https://psong1.github.io/horiseon/
+* https://psong1.github.io/horiseon/
